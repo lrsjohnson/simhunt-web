@@ -8,9 +8,9 @@ body {
     line-height:1.5em;
     color: #545454;
     background-color: #ffffff;
-    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    -moz-box-shadow: 0 0 5px rbga(0, 0, 0, 0.2);
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 0 10px rbga(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     -webkit-font-smoothing: antialiased;
 }
 
@@ -21,7 +21,7 @@ html {
 h1, h2{
     color: #222;
     font-weight: 600;
-    line-height:1.3em;
+    line-height:1.5em;
 }
 
 
